@@ -2,7 +2,7 @@ In the context of a waterfall model, the development process follows a sequentia
 
 # 1. Requirement Analysis Phase:
    - *User Authentication:*
-     - User registration
+     - User registration<br>
        Allow users to register before using the banking system features.
        The users will be able to create his account after registering.
        At the same time the users create theit profile.
