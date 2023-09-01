@@ -44,36 +44,36 @@ In the context of a waterfall model, the development process follows a sequentia
       - *Account Management:* Enable users to create new accounts, view existing accounts, and link external accounts.
       - *Transaction Tracking:* Provide a dashboard for users to monitor their transaction history, including deposits, withdrawals, and transfers.
 
-*3. Implementation Phase:*
+# 3. Implementation Phase:
    - *Security Measures:* Implement encryption protocols, secure socket layer (SSL) for data transmission, and secure password storage.
    - *User Roles:* Define roles such as customer, administrator, and support staff, each with specific access levels and permissions.
    - *Transaction Processing:* Develop a real-time transaction processing system that handles transfers, payments, and account updates accurately.
 
-*4. Testing Phase:*
+# 4. Testing Phase:
    - *Usability Testing:* Verify the user interface for ease of use, responsiveness, and compatibility across various devices and browsers.
    - *Functional Testing:* Validate all features including login, account creation, fund transfers, bill payments, and user profile management.
    - *Security Testing:* Conduct thorough security assessments to identify and address vulnerabilities, ensuring data protection.
 
-*5. Deployment Phase:*
+# 5. Deployment Phase:
    - *Server Infrastructure:* Set up and configure the necessary servers, databases, and network components to host the online banking system.
    - *Data Migration:* Safely transfer existing customer data to the new system without data loss or corruption.
    - *User Training:* Provide user documentation and training resources to help customers understand and navigate the new system.
 
-*6. Maintenance Phase:*
+# 6. Maintenance Phase:
    - *Bug Fixes:* Address and resolve any issues, bugs, or glitches identified post-deployment.
    - *Regular Updates:* Implement updates to enhance security, fix vulnerabilities, and introduce new features based on customer feedback.
    - *User Support:* Provide ongoing customer support through various channels such as online help, chat, or a dedicated support center.
 
-*7. Documentation Phase:*
+# 7. Documentation Phase:
    - *User Manuals:* Create comprehensive user manuals and guides for customers to understand the system's features and functionalities.
    - *Technical Documentation:* Prepare detailed technical documentation for developers, administrators, and support staff.
 
-*8. Project Closure:*
+# 8. Project Closure:
    - *Evaluation:*
      Assess the success of the project in meeting the defined functional requirements and business goals.
    - *Lessons Learned:* Document the lessons learned during the development process for future projects.
    - *Handover:* Transition the system to operational teams and provide necessary training for system administrators and support staff.
-*9. . Customer Support:*
+# 9. Customer Support:
   - Users should be able to resolve their queries and get necessaryu supprot from customer support portal.
   - User must have access to all the centralized bank department info, phone numbers and email ids in the customer support portal.
   - Users must be able to use the option of loive chat in case they face any difficulty related to their transactions.
