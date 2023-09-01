@@ -3,7 +3,8 @@ In the context of a waterfall model, the development process follows a sequentia
 # 1. Requirement Analysis Phase:
    - *User Authentication:*
      - User registration<br>
-       Allow users to register before using the banking system features.
+     <br>
+       Users should be able to register and create a profile.
        The users will be able to create his account after registering.
        At the same time the users create theit profile.
      - *User login*
@@ -59,5 +60,11 @@ In the context of a waterfall model, the development process follows a sequentia
    - *Evaluation:* Assess the success of the project in meeting the defined functional requirements and business goals.
    - *Lessons Learned:* Document the lessons learned during the development process for future projects.
    - *Handover:* Transition the system to operational teams and provide necessary training for system administrators and support staff.
+*9. . Customer Support:*
+  - Users should have access to a customer support portal for inquiries and issue resolution.
+   The system must provide users with the ability to initiate live chat sessions with customer support representatives.
+   Users should be able to submit requests for account-related assistance or technical support.
+
+
 
 In the waterfall model, each phase must be completed before moving to the next one, making it crucial to thoroughly define and document the functional requirements at the beginning to ensure a successful project outcome.
