@@ -55,11 +55,4 @@ To get started with this project:
 5. Run the web application locally by navigating to the `web_app/` directory and executing `python app.py`.
 6. Access the application in your web browser at `http://localhost:5000`.
 
----
-
-## Contributors
-
-- Your Name (@yourusername)
-- [Teammate Name](https://github.com/teammateusername)
-
----
+--
